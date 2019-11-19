@@ -14,5 +14,15 @@ And then copy the url like: 127.0.... from the command prompt, paste in your bro
 
 Fill the form, and hit the predict button.
 
+![alt text](https://github.com/AshuMaths1729/Heart-Disease-Recognition-Web-App/blob/master/Picture1.png)
+
+![alt text](https://github.com/AshuMaths1729/Heart-Disease-Recognition-Web-App/blob/master/Picture2.png)
+
+
 And then there goes the result.
 
+![alt text](https://github.com/AshuMaths1729/Heart-Disease-Recognition-Web-App/blob/master/Picture3.png)
+
+___
+
+Made with :heart: by **Ashutosh**
