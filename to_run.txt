@@ -1,0 +1,4 @@
+To run type: python app.py
+And then copy the url like: 127.0.... , paste in your browser.
+Fill the form, and hit the predict button.
+And the result will come up.
